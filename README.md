@@ -64,7 +64,7 @@ use europe region for good sound
 #### Special Credits
 - [Roj Serbest](http://github.com/rojserbest): Callsmusic Developer
 
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork SophiaMusic won t exist. 
+This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork FireXmusic won t exist. 
 FireXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of some users
 
 - [StarkGang](https://github.com/StarkGang/)
